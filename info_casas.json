@@ -1,0 +1,162 @@
+Access-Control-Allow-Origin: *
+
+{"casas":
+
+[{
+	"CODCASA":"01",
+		"nombre": "MARÍA",
+		"ubicacion": "San Juan de Alicante",
+		"precio": "450",
+		"hab_libres": 0,
+		"img": "images/casa_maria_horizontal.jpg",
+
+		"SobreLaCasa": {
+			"p": "Villa moderna de obra nueva con 4 dormitorios con aseos independientes, zonas de trabajo equipadas con la última tecnología, piscina infinita, garaje privado y jardín. <br> La casa de compone de un espectacular terreno de 800 m² donde se pueden realizar un sin fín de actividades y una gran casa completamente equipada con todo lo necesario para hacer que su residencia sea todo lo que espera y mucho más. <br> Con más de 25 m² de privacidad para cada uno de los residentes, tendrás todo el espacio que necesitas para tener tu tranquilidad, y después, otros 207 m² de casa donde disfrutar con tus compañeros.",
+			"comp": "4",
+			"metros": "307m²",
+			"proyectos": "5",
+			"privacidad":"25m²"
+		}, 
+
+		"SobreUbicacion": {
+			"map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12512.932348327276!2d-0.420525448739479!3d38.36672900574594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1648704140967!5m2!1ses!2ses",
+			"p":"El complejo se encuentra en una ubicación excepcional en San Juan de Alicante y ofrece mucha tranquilidad, sin renunciar a la proximidad a todos los servicios necesarios, centros comerciales y playas. <br>Es una zona ideal, cerca de las bonitas playas de la zona, restaurantes, tiendas y diversas atracciones y actividades, lo que garantiza que los residentes puedan disfrutar de una calidad de vida excelente. <br>La vivienda está ubicada convenientemente para acceder al centro de Alicante con facilidad, ya sea en vehículo propio o en transporte público, ya que disfruta de cercanía con todos estos servicios."
+		},
+
+		"Galeria":{
+			"1": "images/jardines.jpg",
+			"2": "images/garaje.jpg",
+			"3": "images/limpieza.jpg",
+			"4": "",
+			"5": "",
+			"6": "",
+			"7": ""
+		},
+
+		"Residentes": [
+			{	
+				"img":"images/Avatar1.jpg",
+				"prof":"Programador"
+			},
+			{	
+				"img":"images/Avatar5.jpg",
+				"prof":"Artista 3D"
+			},
+			{	
+				"img":"images/Avatar7.jpg",
+				"prof":"Ilustradora"
+			},
+			{	
+				"img":"images/Avatar3.jpg",
+				"prof":"Diseñador"
+			}
+		]
+
+	}, 
+
+	{"CODCASA": "02",
+		"nombre": "JULIA",
+		"ubicacion": "Vistahermosa, Alicante",
+		"precio": "500",
+		"hab_libres": 1,
+		"img": "images/casa_maria_horizontal.jpg",
+
+		"SobreLaCasa": {
+			"p": "A esta vivienda de lujo no le falta ninguna comodidad, ya que está pensada al más mínimo detalle. <br>Esta exclusiva propiedad, que cuenta con modernas líneas rectas, y amplios y luminosos espacios, ha sido construida recientemente, y se encuentra localizada junto a la cuidad de Alicante, en la tradicional área de Vistahermosa, una de las zonas residenciales más elegantes de la ciudad.<br> Este excepcional inmueble se encuentra ubicado en una amplia parcela de unos 840 m2 de superficie, cuenta con unas magníficas áreas verdes ajardinadas y una estupenda piscina. Está organizado en 3 alturas, en una superficie construida de unos 380 m2, y se ha distribuido en 4 amplios dormitorios y 4 espaciosos baños.",
+			"comp": "4",
+			"metros": "308m²",
+			"proyectos": "2",
+			"privacidad":"25m²"
+		}, 
+
+		"SobreUbicacion": {
+			"src": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d10422.227407745777!2d-0.4685625459554027!3d38.36007524827267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1649612424461!5m2!1ses!2ses",
+			"p":"Vistahermosa es un área residencial rodeada de sofisticadas y exclusivas villas independientes que no dejan indiferentes por sus diseños originales y exuberantes.<br> Es una localización ideal para quienes desean tener a mano todos los servicios, al mismo tiempo que disfrutan de privacidad y tranquilidad.<br> Se encuentra a solo 5 minutos de las playas de Albufereta y Postiguet, así como del centro de Alicante. Está a 10 minutos de la playa de San Juan y Cabo Huertas, y a 20 minutos del aeropuerto internacional por autovía."
+		},
+
+		"Galeria":{
+			"1": "images/garaje.jpg",
+			"2": "images/limpieza.jpg",
+			"3": "images/piscina.jpg",
+			"4": "",
+			"5": "",
+			"6": "",
+			"7": ""
+		},
+
+		"Residentes": [
+			{	
+				"img":"images/Avatar4.jpg",
+				"prof":"Artista 3D"
+			},
+			{	
+				"img":"images/Avatar8.jpg",
+				"prof":"Programadora"
+			},
+			{	
+				"img":"images/Avatar6.jpg",
+				"prof":"Diseñadora"
+			},
+			{	
+				"img":"images/Avatar2.jpg",
+				"prof":"Programador"
+			}
+		]
+
+	},
+
+
+
+	{"CODCASA":"03",
+		"nombre": "SOFÍA",
+		"ubicacion": "Patacona, Valencia",
+		"precio": "500",
+		"hab_libres": 0,
+		"img": "images/casa_maria_horizontal.jpg",
+
+		"SobreLaCasa": {
+			"p": "La casa se encuentra en un entorno de viviendas unifamiliares rodeadas de espacios peatonales, muy próxima a la playa.<br> Villa moderna de obra nueva con 5 dormitorios con aseos independientes, zonas de trabajo equipadas con la última tecnología, piscina, garaje privado y jardín.<br> La casa de compone de un espectacular terreno de 800 m² donde se pueden realizar un sin fín de actividades y una gran casa completamente equipada con todo lo necesario para hacer que su residencia sea todo lo que espera y mucho más.<br> Con más de 25 m² de privacidad para cada uno de los residentes, tendrás todo el espacio que necesitas para tener tu tranquilidad, y después, otros 304 m² de casa donde disfrutar con tus compañeros.",
+			"comp": "5",
+			"metros": "440m²",
+			"proyectos": "3",
+			"privacidad":"25m²"
+		}, 
+
+		"SobreUbicacion": {
+			"src": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8220.546182379765!2d-0.32933837957114104!3d39.48681900737846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1649612905480!5m2!1ses!2ses",
+			"p":"La Patacona es un barrio con playa y paseo marítimo, habitado todo el año gracias a sus comodidades y servicios. El paseo conecta con 4 kilómetros de playa hacia Valencia. Se encuentra junto al barrio de la Malvarrosa, donde podrá encontrar todo tipo de tiendas y medios de transporte. El barrio de la Patacona disfruta igualmente de tiendas y paradas de autobús, así como de un centro de Salud, centros educativos para todos los ciclos de enseñanza y oficina municipal.<br> Sus vías de circulación rápida permiten llegar al centro de Valencia en menos de 20 minutos en coche y al aeropuerto en 25 minutos, y tiene fácil conexión con la autovía que comunica con el norte de la región.<br> Es un barrio ideal para vivir en la naturaleza y contar con las comodidades de la ciudad."
+		},
+
+		"Galeria":{
+			"1": "images/salas_juegos.jpg",
+			"2": "images/coworking.jpg",
+			"3": "images/privacidad.jpg",
+			"4": "",
+			"5": "",
+			"6": "",
+			"7": ""
+		},
+
+		"Residentes": [
+			{	
+				"img":"images/Avatar1.jpg",
+				"prof":"Artista"
+			},
+			{	
+				"img":"images/Avatar4.jpg",
+				"prof":"Diseñador UI/UX"
+			},
+			{	
+				"img":"images/Avatar7.jpg",
+				"prof":"Programadora"
+			},
+			{	
+				"img":"images/Avatar3.jpg",
+				"prof":"Diseñador"
+			}
+		]
+
+	}]
+	
+
+}
